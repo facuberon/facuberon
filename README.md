@@ -88,13 +88,6 @@
 - 📄 Contextualización del modelo mediante archivos PDF
 
 
-## 🤝 Conecta Conmigo
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundo-beron/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:facundo.nicolas.beron@gmail.com)
-
 
 </div>
 
@@ -107,16 +100,18 @@
 - ☁️ **Cloud Computing**: Arquitecturas escalables en plataformas cloud
 - 🔄 **MLOps**: Automatización y despliegue de modelos en producción
 - 🧠 **LLMs & Generative AI**: Aplicaciones innovadoras con inteligencia artificial
-
+- 🪙 **Tecnologías descentralizadas**: Interés en Bitcoin, Nostr y enfoques orientados a la privacidad y la autonomía digital
 ---
 
 <div align="center">
   
 ![Profile views](https://komarev.com/ghpvc/?username=facuberon&color=blue)
-
-
-</div>
-
 ---
 
 *⭐ Si alguno de mis proyectos te resulta útil, no dudes en darle una estrella! Siempre abierto a colaboraciones y nuevos desafíos.*
+
+---
+
+## 🤝 Conecta Conmigo
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundo-beron/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:facundo.nicolas.beron@gmail.com)
