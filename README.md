@@ -82,7 +82,7 @@
 - 📊 Dashboards en Google Cloud Platform
 
 ### [🚀 LLM-WebApp con Gemini AI](https://github.com/facuberon/LLM-WebApp)
-**Interfaz web para modelos de IA** - Tecnologías: Python, JavaScript, Google Gemini, HTML, CSS
+**Interfaz web para modelos de IA** - Tecnologías: Python, Flask, Google Gemini, HTML, CSS
 - 💬 Interacción con modelos de Google Gemini desde una interfaz web
 - ⚙️ Personalización parámetros clave para optimizar LLM
 - 📄 Contextualización del modelo mediante archivos PDF
