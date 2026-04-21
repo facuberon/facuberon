@@ -61,7 +61,7 @@
 
 ## 🌟 Proyectos Destacados
 
-### [📈 Análisis del Mercado Bursátil](https://github.com/facuberon/Data_Analytics_Investment_Portfolio)
+### [📈 Análisis de datos del Mercado Bursátil](https://github.com/facuberon/Data_Analytics_Investment_Portfolio)
 **Dashboard interactivo para análisis financiero** - Tecnologías: Python, Streamlit, Pandas, Matplotlib
 - 📊 Visualización de datos bursátiles
 - 📈 Análisis técnico y fundamental de acciones
